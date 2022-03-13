@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873634332338",
+    "firebase_url": "https://connecto-242cc-default-rtdb.firebaseio.com",
+    "project_id": "connecto-242cc",
+    "storage_bucket": "connecto-242cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873634332338:android:68ff1f8ab51965ce2f53ab",
+        "android_client_info": {
+          "package_name": "com.example.connecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873634332338-nu3hnir7c4r48cdk2clr0ihofo0rc9i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connecto",
+            "certificate_hash": "82a9710509e5ee9bd6466e905aab39b37349ab94"
+          }
+        },
+        {
+          "client_id": "873634332338-9qrs0psnjuc4hqh0llja100u9s4tm5hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApN7BHl43DgNRqICqM9IAaZABj9dPl-eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873634332338-9qrs0psnjuc4hqh0llja100u9s4tm5hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

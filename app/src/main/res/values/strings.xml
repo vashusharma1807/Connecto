@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Connecto</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="client_id">873634332338-nu3hnir7c4r48cdk2clr0ihofo0rc9i5.apps.googleusercontent.com</string>
+
+
+    <string name="create_sdp_call">Create SDP Call</string>
+</resources>
